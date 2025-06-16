@@ -1,4 +1,4 @@
-# Alpha Project
+# Alpha Project - Back-End
 
 Sistema de gerenciamento de produtos, com backend em .NET Core e frontend em Vue 3, utilizando integração com banco de dados SQL Server.
 
